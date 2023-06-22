@@ -1,0 +1,56 @@
+        /* ---------------------------------------------------Footer CSS------------------------------------------------------------------ */
+        footer {
+            margin-top: 0px;
+            background-color: rgb(230, 217, 247);
+            color: rgb(45, 29, 67);
+            /* padding: 100px;  */
+        }
+
+        #footer-top {
+            display: grid;
+            padding: 20px 0px 0px 0px;
+            grid-template-columns: 20% 20% 20% 20% 20%;
+        }
+
+        .footer-top-content {
+            padding: 30px;
+            margin: 0px auto;
+        }
+
+        #footer-center {
+            padding: 35px 65px;
+        }
+
+        #footer-bottom {
+            background-color: rgb(185, 175, 228);
+            text-align: center;
+            width: 100%;
+            padding: 5px;
+        }
+
+        footer h3 {
+            line-height: 1.6;
+            font-size: 0.8rem;
+            color: rgb(139, 121, 190);
+        }
+
+        footer a {
+            text-decoration: none;
+            line-height: 1.4;
+            font-size: 0.85rem;
+            cursor: pointer;
+            color: rgb(119, 101, 154);
+        }
+
+        #footer-center p {
+            text-align: justify;
+            line-height: 1.6;
+            font-size: 0.9rem;
+            color: rgb(119, 101, 154);
+        }
+
+        footer a:hover {
+            color: rgb(75, 62, 88);
+        }
+
+        /* ------------------------------------------------Footer CSS Ends--------------------------------------------------------- */
